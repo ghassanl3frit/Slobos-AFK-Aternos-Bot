@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TEAM_MOON.aternos.me
-",
+    "ip": "TEAM_MOON.aternos.me",
     "port": 11859,
     "version": "",
     "try-creative": false
